@@ -21,10 +21,11 @@ void Player::takeDamage(int damage) {
     setHealth(health - damage);
 
     if(health <= 0) {
-        cout<<"You have died"<<endl;
+        cout<<"Has MUERTO"<<endl;
     }
     else {
-        cout<<"You have taken " << damage << " damage" << endl;
+        cout<<"Pierdes " << damage << " HP de un golpe del enemigo" << endl;
+        cout<<"Tu vida es: " << health << "\n" << endl << endl;
     }
 }
 

@@ -7,6 +7,8 @@
 
 #include "../Character/Character.h"
 
+class Combate;
+
 class Player: public Character {
 protected:
     int experience;

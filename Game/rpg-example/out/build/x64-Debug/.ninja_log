@@ -1,0 +1,25 @@
+# ninja log v5
+10	440	7300232651353096	CMakeFiles/rpg.dir/Character/Character.cpp.obj	bb631f5c2fa4d3e8
+5	633	7300232653263595	CMakeFiles/rpg.dir/main.cpp.obj	2c19246c1e867ca5
+14	638	7300232653323588	CMakeFiles/rpg.dir/Player/Player.cpp.obj	6dc09c1ff5817414
+20	644	7300232653383571	CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj	4e4b2d4a31927b9c
+644	995	7300232656704948	rpg.exe	879a3f283bf1339f
+46	766	7300242513903680	CMakeFiles/rpg.dir/Character/Character.cpp.obj	bb631f5c2fa4d3e8
+55	928	7300242515578826	CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj	4e4b2d4a31927b9c
+41	968	7300242515973775	CMakeFiles/rpg.dir/main.cpp.obj	2c19246c1e867ca5
+50	972	7300242516003740	CMakeFiles/rpg.dir/Player/Player.cpp.obj	6dc09c1ff5817414
+972	1269	7300242518319462	rpg.exe	879a3f283bf1339f
+9	452	7300244988021187	CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj	4e4b2d4a31927b9c
+5	453	7300244988021187	CMakeFiles/rpg.dir/main.cpp.obj	2c19246c1e867ca5
+453	604	7300244989222132	rpg.exe	879a3f283bf1339f
+14	424	7300247814035252	CMakeFiles/rpg.dir/main.cpp.obj	2c19246c1e867ca5
+425	562	7300247815112144	rpg.exe	879a3f283bf1339f
+16	505	7300249513032945	CMakeFiles/rpg.dir/Player/Player.cpp.obj	6dc09c1ff5817414
+21	506	7300249513042300	CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj	4e4b2d4a31927b9c
+506	648	7300249514138451	rpg.exe	879a3f283bf1339f
+17	481	7300250804935236	CMakeFiles/rpg.dir/Player/Player.cpp.obj	6dc09c1ff5817414
+22	487	7300250805005909	CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj	4e4b2d4a31927b9c
+487	627	7300250806105262	rpg.exe	879a3f283bf1339f
+14	470	7300251513459331	CMakeFiles/rpg.dir/Player/Player.cpp.obj	6dc09c1ff5817414
+18	473	7300251513499345	CMakeFiles/rpg.dir/Enemy/Enemy.cpp.obj	4e4b2d4a31927b9c
+474	610	7300251514546702	rpg.exe	879a3f283bf1339f
